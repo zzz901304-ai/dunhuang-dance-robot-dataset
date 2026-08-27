@@ -1,0 +1,14 @@
+file,csv,role,take,desc,frames,duration_ms
+12345.rob,center_main_take_old.csv,center_main,take_old,center main dancer (earlier version),121,150200
+29.rob,left_dancer_take_29.csv,left_dancer,take_29,left dancer,119,181200
+30.rob,left_dancer_take_30.csv,left_dancer,take_30,left dancer (final),119,180700
+主c的动作.rob,center_main_take_final.csv,center_main,take_final,center main dancer (final),127,176700
+右目前11.rob,right_dancer_take_11.csv,right_dancer,take_11,right dancer,120,180200
+有目前12.rob,right_dancer_take_12.csv,right_dancer,take_12,right dancer,120,179200
+右目前13.rob,right_dancer_take_13.csv,right_dancer,take_13,right dancer,120,179200
+右目前14.rob,right_dancer_take_14.csv,right_dancer,take_14,right dancer,120,180200
+右目前15.rob,right_dancer_take_15.csv,right_dancer,take_15,right dancer (final),119,181200
+左目前1.rob,left_dancer_take_left1.csv,left_dancer,take_left1,left dancer,121,180200
+左边的目前.rob,left_dancer_take_leftside.csv,left_dancer,take_leftside,left dancer,121,150200
+后仰.rob,basic_back_lean.csv,basic,back_lean,basic: backward lean,16,16500
+71号向前走俩步.rob,basic_walk_2steps.csv,basic,walk_2steps,basic: walk forward two steps,14,4400
